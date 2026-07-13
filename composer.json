@@ -1,0 +1,16 @@
+{
+    "name": "fernandagomes/module6a_mvc_project",
+    "description": "Vegetarian and vegan restaurant guide",
+   "autoload": {
+    "psr-4": {
+        "App\\": "src/"
+    }
+    },
+    "authors": [
+        {
+            "name": "Nanda",
+            "email": "silva_gomes_fernan01@student.smc.edu"
+        }
+    ],
+    "require": {}
+}
